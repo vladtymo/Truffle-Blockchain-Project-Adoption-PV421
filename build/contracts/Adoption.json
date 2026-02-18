@@ -4207,12 +4207,12 @@
     "5777": {
       "events": {},
       "links": {},
-      "address": "0xaF18a524373fFDa6B96A0218fc87247B3a228e0C",
-      "transactionHash": "0x726334c7af8803a6fa659e4995baaadc3e661daca693a9ba0852818a103e3268"
+      "address": "0x4235dF1A80fe35b51e26Bf9E3cf5BDC8eE5f8BB1",
+      "transactionHash": "0x9b377a363b47302afe5dac62145fa66ba7f9e917d99b1bae7676e652c6eca573"
     }
   },
   "schemaVersion": "3.4.16",
-  "updatedAt": "2026-02-13T17:46:44.063Z",
+  "updatedAt": "2026-02-16T17:46:09.747Z",
   "networkType": "ethereum",
   "devdoc": {
     "kind": "dev",
